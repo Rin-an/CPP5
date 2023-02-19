@@ -6,12 +6,11 @@
 /*   By: ssadiki <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/27 02:40:30 by ssadiki           #+#    #+#             */
-/*   Updated: 2022/12/29 05:55:15 by ssadiki          ###   ########.fr       */
+/*   Updated: 2022/12/30 17:33:57 by ssadiki          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "Bureaucrat.hpp"
-#include "Form.hpp"
 
 int main(void)
 {
